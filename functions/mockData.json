@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "username": "mickey78",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.951524,
+        "longitude": 151.125198
+      }
+    },
+    {
+      "username": "rcmlee99",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.957412,
+        "longitude": 151.118092
+      }
+    },
+    {
+      "username": "rcmlee99",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.961504,
+        "longitude": 151.079228
+      }
+    },
+    {
+      "username": "oliver90",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.975997,
+        "longitude": 151.10364
+      }
+    },
+    {
+      "username": "oliver90",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.986627,
+        "longitude": 151.112644
+      }
+    },
+    {
+      "username": "rcmlee99",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.939641,
+        "longitude": 151.100524
+      }
+    },
+    {
+      "username": "rcmlee99",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.927121,
+        "longitude": 151.128572
+      }
+    },
+    {
+      "username": "oliver90",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.990209,
+        "longitude": 151.113624
+      }
+    },
+    {
+      "username": "chris77",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.97798,
+        "longitude": 151.103984
+      }
+    },
+    {
+      "username": "chris77",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.974858,
+        "longitude": 151.127273
+      }
+    },
+    {
+      "username": "rcmlee99",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.959909,
+        "longitude": 151.145739
+      }
+    },
+    {
+      "username": "mickey78",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis aliquam arcu, eget accumsan est dapibus nec. Fusce lacinia aliquet nisl, a pretium tortor varius et. Quisque pretium luctus velit eu semper",
+      "location": {
+        "latitude": -33.952566,
+        "longitude": 151.135774
+      }
+    }
+  ]
+}
